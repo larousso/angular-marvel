@@ -1,8 +1,6 @@
 package views
 
 import play.api.Play
-import java.io.InputStream
-import com.ee.assets.deployment.{ContentInfo, Deployer}
 import com.google.javascript.jscomp.CompilerOptions
 
 object Helper{
